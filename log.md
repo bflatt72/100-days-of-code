@@ -22,6 +22,8 @@ I started working through [FreeCodeCamp](https://www.freecodecamp.org/bflatt72)a
 
 This evening, after learning a little about Flexbox I decided I'd take the website I built with Shay Howe and change some of the layout to flexbox instead of inline-block and commenting out the spaces and using floats. I didn't do this to the entire site but I did it to the teaser section of main page and to the register page. Pretty cool. I did this after creating another branch called flex-box and I pushed that up to Github so that I now have two branches there, the master branch which is the original site built with Shay and the edited site I used Flexbox on. After learning some more Flexbox and then CSS Grid layouts I may edit it again using a Grid layout. 
 
+Watched Flexbox youtube tutorial vids by The Net Ninja and then re worked the links in the nav and footer on the Shay Howe website from before. Pushed it up to flex-box branch on Github. 
+
 **Link(s) to work**: [Styles Conference](https://bflatt72.github.io/projects/shayhowe/) this is the github page for the master branch. 
 
 You can look at the code as follows:
