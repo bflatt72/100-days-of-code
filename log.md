@@ -34,12 +34,23 @@ You can look at the code as follows:
 Over the last couple days I've also been working on teaching myself keyboard shortcuts for Sublime text editor and I installed some packages. 
 
 
-<!-- ### Day 1: June 27, Monday -->
+### Day 2: Sept 27, Wednesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+Watched a really great conference talk by Morten Rand-Hendriksen entitled [CSS Grid Changes Everything](https://www.youtube.com/watch?v=txZq7Laz7_4)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+Via that talk I was introduced to a few other resources for learning CSS Grid layouts: 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Grid by Example - by Rachel Andrew](https://gridbyexample.com) - The definitive guide according to Morten
+2. [MDN CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+3. [CSS Tricks A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+Again, the Youtube videos by The Net Ninja are really great too and he just started one on CSS Grid. I think he just finished the 4th video. 
+
+I then wrote a blog entry on my personal Jekyll blog on Github Pages entitled [Learning CSS Flexbox and Progress Update](https://bflatt72.github.io/posts/2017/09/26/Learning-CSS-Flexbox.html). I noticed that my tags don't work and I found an article about how to fix that in my Jekyll _layout folder and by creating a _plugins folder but I could not get it to work. I used the exact same code [Charlie Park](http://charliepark.org/tags-in-jekyll/) used but it just will not work. The tags are there on my posts but they don't do anything. 
+
+I then started the video tutorials on Flexbox by Wes Bos [What the Flexbox](https://flexbox.io) which was really cool because even though the first 13 vidoes were review, he then went into setting up Gulp for automating the task of autoprefixing vendor prefixes which I'm not even sure still needs to be done for Flexbox but I figured it was a good way to get started learning Gulp, which is something I had heard about before. I had to install node and then Gulp both globally and locally and then install gulp autoprefixer. Pretty cool how that works. 
+
+Gonna call it a night, but starting tomorrow I will be starting the code alongs with Wes and then I'm gonna start the front end development projects on FreeCodeCamp and redo a Google home page project I did a couple years ago for the Odin Project and then it's on to Javascript. 
+
+
+
