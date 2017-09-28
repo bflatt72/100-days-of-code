@@ -54,3 +54,10 @@ Gonna call it a night, but starting tomorrow I will be starting the code alongs 
 
 
 
+### Day 3 Sept 28, 2017 My Birtday Thursday
+
+Worked on 3 code along modules of Wes Bos's What the Flexbox. Pretty cool stuff. 
+
+I then began work on my own personal webpage and I did some stuff but damn if I still don't feel as if I'm just hacking shit together instead of fully understanding what I'm doing. I used Shay Howe's site I built there as a guide and kind of a template but I made it my own. Will continue to work on it. 
+
+**Link to Work: [Flatt Dev](https://bflatt72.github.io/projects/personal-webpage/)
