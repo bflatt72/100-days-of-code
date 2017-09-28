@@ -54,7 +54,7 @@ Gonna call it a night, but starting tomorrow I will be starting the code alongs 
 
 
 
-### Day 3 Sept 28, 2017 My Birtday Thursday
+### Day 3 Sept 28, 2017 My Birthday Thursday
 
 Worked on 3 code along modules of Wes Bos's What the Flexbox. Pretty cool stuff. 
 
