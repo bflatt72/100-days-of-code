@@ -61,3 +61,22 @@ Worked on 3 code along modules of Wes Bos's What the Flexbox. Pretty cool stuff.
 I then began work on my own personal webpage and I did some stuff but damn if I still don't feel as if I'm just hacking shit together instead of fully understanding what I'm doing. I used Shay Howe's site I built there as a guide and kind of a template but I made it my own. Will continue to work on it. 
 
 **Link to Work: [Flatt Dev](https://bflatt72.github.io/projects/personal-webpage/)
+
+
+### Day 4 Sept 29, 2017 Day after my Birthday
+
+Worked on my website filling out inner pages with funny placeholder text. 
+
+**Link to Work: [Flatt Dev](https://bflatt72.github.io/projects/personal-webpage/)
+
+### Day 5 Sept 30, 2017 2 days after my Birthday
+
+Refactored my Google home page from the Odin Project using Flexbox. 
+
+**Link to Work: [Google Home Page](bflatt72.github.io/projects/google-homepage)
+
+### Day 6 Oct 1, 2017 
+
+Played around with normalize.css switching it out in a couple of my projects for the Meyer reset. Was wondering why Shay Howe's website he has you build has an entire section of CSS Styling typography to include all headers and then realized it's because the Meyer reset he used wipes all the styling away to zero. Seems silly to do all of that. Learned about normalize.css and how it doesn't do a full reset of all HTML elements but mainly just fixes bugs and ensures cross browser uniformity. Put it in the Shay Howe website and it put a border around the form on the register page and around the google map. Easy enough to remove. On my personal webpage I didn't notice any changes with normalize. On the Google home page clone project it did push my nav up to the top corner, guessing because it sets all margins to zero. Easy enough to fix. I also like the fact that normalize is fully documented in code. 
+
+**Link to Work: Same as above just with normalize and took typology section out of Shay Howe since not needed. 
