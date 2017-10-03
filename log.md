@@ -86,3 +86,4 @@ Played around with normalize.css switching it out in a couple of my projects for
 Made website for CITC1301 class using HTML/CSS. Had to talk about our hobbies and interests and the page had to include several photos, links and at least one ul or ol list.
 
 **Link to work: [CITC1301](https://bflatt72.github.io/projects/CITC1301)
+Code at [CITC1301](https://github.com/bflatt72/projects/tree/master/CITC1301)
