@@ -80,3 +80,9 @@ Refactored my Google home page from the Odin Project using Flexbox.
 Played around with normalize.css switching it out in a couple of my projects for the Meyer reset. Was wondering why Shay Howe's website he has you build has an entire section of CSS Styling typography to include all headers and then realized it's because the Meyer reset he used wipes all the styling away to zero. Seems silly to do all of that. Learned about normalize.css and how it doesn't do a full reset of all HTML elements but mainly just fixes bugs and ensures cross browser uniformity. Put it in the Shay Howe website and it put a border around the form on the register page and around the google map. Easy enough to remove. On my personal webpage I didn't notice any changes with normalize. On the Google home page clone project it did push my nav up to the top corner, guessing because it sets all margins to zero. Easy enough to fix. I also like the fact that normalize is fully documented in code. 
 
 **Link to Work: Same as above just with normalize and took typology section out of Shay Howe since not needed. 
+
+### Day 7 Oct 2, 2017
+
+Made website for CITC1301 class using HTML/CSS. Had to talk about our hobbies and interests and the page had to include several photos, links and at least one ul or ol list.
+
+**Link to work: bflatt72.github.io/projects/CITC1301
