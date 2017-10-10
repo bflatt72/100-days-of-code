@@ -87,3 +87,48 @@ Made website for CITC1301 class using HTML/CSS. Had to talk about our hobbies an
 
 **Link to work: [CITC1301](https://bflatt72.github.io/projects/CITC1301)
 Code at [CITC1301](https://github.com/bflatt72/projects/tree/master/CITC1301)
+
+
+### Day 8 Oct 3, 2017
+
+Completed the FCC front end project, [Build a Tribute Page](https://www.freecodecamp.org/challenges/build-a-tribute-page). My solution can be seen on Codepen at [Dr Sheldon Cooper](https://codepen.io/bflatt72/pen/zEEoWB). 
+
+I don't really like working with codepen. Seems to be a lot more hassle than it's worth and I just much prefer working in my own local environment that I can push to Github so that's what I will be doing for all future projects. Also, not really enjoying Bootstrap all that much. Again, I prefer rolling my own CSS but maybe that's because I need to learn Bootstrap better?
+
+98% on first Intro to Programming and Logic exam. Consisted of computer history, binary conversions and short  Assembly language program. 
+
+### Day 9 Oct 4, 2017
+
+Did my first git revert because I bungled a git merge creating conflicts. Did not understand what was going on at the time. Wrote a blog post about it. 
+
+Watched JavaScript Youtube videos by [The Net Ninja](https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
+
+Blog post at [Git revert](https://bflatt72.github.io/posts/2017/10/03/git-merge-conflicts.html)
+
+### Day 10 Oct 5, 2017
+
+Set up local HTML/CSS templating files so I don't have to reinvent the wheel every time I start a new project. 
+
+Started FCC Portfolio project locally and on Github rather than Codepen. 
+
+[Portfolio](https://bflatt72.github.io/projects/FCCportfolio)
+
+### Day 11 Oct 6, 2017
+
+Worked on FCC Portfolio project. Still local, git commit but not pushed to Github. 
+
+### Day 12 Oct 7, 2017
+
+Took a break from hard coding to review Bootstrap. I realized if I learned it better I might not hate it so much. Watched the Net Ninja's Bootstrap 3 and 4 playlists on Youtube and did the short Bootstrap exercises on FCC.
+
+### Day 13, Oct 8, 2017
+
+Reviewed Bootstrap and worked on FCC portfolio project starting over using Bootstrap 4. 
+
+[Portfolio](https://bflatt72.github.io/projects/FCCportfolio) in current state. 
+
+### Day 14, Oct 9, 2017
+
+FCC Portfolio. Liking the looks of it so far. Need to finish out the footer and social links and the functionality of buttons and navigation. Javascript/Jquery? All text on site is copied from example site as placeholder text. Will personalize later. 
+
+Tweeted last 3 days as day 12 each time. Stuck in a time loop? 
