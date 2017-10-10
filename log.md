@@ -143,3 +143,5 @@ Learned about bash scripts and aliases via the above personal-goals repo from [u
 100-gh automates git add, git commit and git push to the remote repo. Pretty awesome. 
 
 testing testing testing and testing
+
+let's test some more
