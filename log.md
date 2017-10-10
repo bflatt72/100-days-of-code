@@ -132,3 +132,14 @@ Reviewed Bootstrap and worked on FCC portfolio project starting over using Boots
 FCC Portfolio. Liking the looks of it so far. Need to finish out the footer and social links and the functionality of buttons and navigation. Javascript/Jquery? All text on site is copied from example site as placeholder text. Will personalize later. 
 
 Tweeted last 3 days as day 12 each time. Stuck in a time loop? 
+
+### Day 15, Oct 10, 2017
+
+Caught up on this log file. Forked and cloned [personal-goals](https://github.com/bflatt72/personal-goals) repo and started using it. Going to add and upkeep goals and lists of resources. 
+
+Learned about bash scripts and aliases via the above personal-goals repo from [una](https://github.com/una). Added my own alias for this 100DaysofCode repo:
+
+100-log will open the log.md file in 100-days-of-code folder
+100-gh automates git add, git commit and git push to the remote repo. Pretty awesome. 
+
+
