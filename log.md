@@ -142,4 +142,4 @@ Learned about bash scripts and aliases via the above personal-goals repo from [u
 100-log will open the log.md file in 100-days-of-code folder
 100-gh automates git add, git commit and git push to the remote repo. Pretty awesome. 
 
-testing
+testing testing
