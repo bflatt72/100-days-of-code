@@ -145,3 +145,16 @@ Learned about bash scripts and aliases via the above personal-goals repo from [u
 testing testing testing and testing
 
 let's test some more
+
+
+### Day 16 Oct 11, 2017
+
+Added some JavaScript to my CITC1301 webpage. 
+
+1. Changed background textures of sections.
+2. Revert back to original background textures.
+3. Show social links
+4. Buttons to change profile pic
+5. Buttons to show and hide lists
+
+Link to project: [CITC1301](https://bflatt72.github.io/projects/CITC1301)
