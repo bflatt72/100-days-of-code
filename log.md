@@ -158,3 +158,12 @@ Added some JavaScript to my CITC1301 webpage.
 5. Buttons to show and hide lists
 
 Link to project: [CITC1301](https://bflatt72.github.io/projects/CITC1301)
+
+
+### Day 17 Oct 12, 2017
+
+Cleaned up my HTML and CSS files in my CITC1301 class project. 
+
+Pretty much finished the FCC Portfolio project. Just need to clean up the code and see if I can find out how to add scroll animations to the page buttons. 
+
+Link to project: [FCC Portfolio](https://bflatt72.github.io/projects/CITC1301)
