@@ -167,3 +167,9 @@ Cleaned up my HTML and CSS files in my CITC1301 class project.
 Pretty much finished the FCC Portfolio project. Just need to clean up the code and see if I can find out how to add scroll animations to the page buttons. 
 
 Link to project: [FCC Portfolio](https://bflatt72.github.io/projects/CITC1301)
+
+### Day 18 Oct 13, 2017
+
+Finished the FCC Portfolio project. Very proud of myself. Took about a week and a half of coding an hour or two a day. No cheating to look at FCC's code. All done myself reverse engineering the example site. 
+
+Link to project: [FCC Portfolio](https://bflatt72.github.io/projects/CITC1301)
