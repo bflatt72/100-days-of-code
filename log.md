@@ -172,4 +172,18 @@ Link to project: [FCC Portfolio](https://bflatt72.github.io/projects/CITC1301)
 
 Finished the FCC Portfolio project. Very proud of myself. Took about a week and a half of coding an hour or two a day. No cheating to look at FCC's code. All done myself reverse engineering the example site. 
 
-Link to project: [FCC Portfolio](https://bflatt72.github.io/projects/CITC1301)
+Link to project: [FCC Portfolio](https://bflatt72.github.io/projects/CITCy1301)
+
+### Day 19 Oct 14, 2017
+
+Was visiting Zach in Raleigh so didn't have a whole lot of time to do any coding, however I did read the first chapter of You Don't know JS, Up and Running. 
+
+### Day 20 Oct 15, 2017
+
+Changed my Jekyll blog theme to Beautiful-Jekyll. Added my portofolio page to the blog. Added another button to the portfolio to direct back to the blog. The FlattDev logo also redirects back to the blog. 
+
+[FlattDev](https://bflatt72.github.io)
+
+### Day 21 Oct 16, 2017
+
+Finished reading Up and Running book, You Don't Know JS. Had a look at the book I bought awhile ago, JavaScript for Web Developers. Worked on Jquery and JavaScript modules in Free Code Camp.
