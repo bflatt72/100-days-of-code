@@ -187,3 +187,9 @@ Changed my Jekyll blog theme to Beautiful-Jekyll. Added my portofolio page to th
 ### Day 21 Oct 16, 2017
 
 Finished reading Up and Running book, You Don't Know JS. Had a look at the book I bought awhile ago, JavaScript for Web Developers. Worked on Jquery and JavaScript modules in Free Code Camp.
+
+### Day 22 Oct 17, 2017
+
+Worked on Basic JavaScript on FreeCodeCamp. Got my domain name up and running. Again. Wrote a blog about it. 
+
+[FlattDev](http://flattdev.com)
