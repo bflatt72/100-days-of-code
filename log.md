@@ -193,3 +193,11 @@ Finished reading Up and Running book, You Don't Know JS. Had a look at the book 
 Worked on Basic JavaScript on FreeCodeCamp. Got my domain name up and running. Again. Wrote a blog about it. 
 
 [FlattDev](http://flattdev.com)
+
+### Day 23 Oct 18, 2017
+
+Worked on Basic JavaScript on FreeCodeCamp. Contributed to the FreeCodeCamp guide on Bootstrap Grid System - pull request #3 for Hacktoberfest. 
+
+### Day 24 Oct 19, 2017
+
+Worked on Basic JavaScript on FreeCodeCamp. Wrote a blog entry from journal entitled Stream of Consciousness. Contributed to the FreeCodeCamp guide on HTML A tags -- pull request #4 for Hacktoberfest. Shirt!! 
