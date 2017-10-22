@@ -201,3 +201,17 @@ Worked on Basic JavaScript on FreeCodeCamp. Contributed to the FreeCodeCamp guid
 ### Day 24 Oct 19, 2017
 
 Worked on Basic JavaScript on FreeCodeCamp. Wrote a blog entry from journal entitled Stream of Consciousness. Contributed to the FreeCodeCamp guide on HTML A tags -- pull request #4 for Hacktoberfest. Shirt!! 
+
+### Day 25 Oct 20, 2017
+
+Worked on Basic JavaScript on FreeCodeCamp. If/else and switch statements. 
+
+### Day 26, Oct 21, 2017
+
+Worked on Basic JavaScript in FreeCodeCamp. Objects. Got caught up on Statistics course work, Confidence Intervals.
+
+### Day 27, Oct 22, 2017
+
+Completed Scratch project for CITC1301
+
+[Breakout](https://scratch.mit.edu/projects/174355603/#player)
