@@ -215,3 +215,28 @@ Worked on Basic JavaScript in FreeCodeCamp. Objects. Got caught up on Statistics
 Completed Scratch project for CITC1301
 
 [Breakout](https://scratch.mit.edu/projects/174355603/#player)
+
+### Day 28, Oct 23, 2017
+
+Finished Basic JavaScript and Objects in FreeCodeCamp. Started on Basic Algorithm challenges, completing Reverse a String and Factorialize a Number.
+Completed Stats lab Ch 6/7 and wrote blog for CITC week 8. 
+
+### Day 29, Oct 24, 2017
+
+Completed through truncateStr Basic Algorithms in FreeCodeCamp. Watched JavaScript Fundamentals by Traversy Media on Youtube. 
+
+### Day 30, Oct 25, 2017
+
+Day 30 of challenge. Completed the Basic Algorithms but did have to cheat a lot and look at code, although I did not copy and paste. I figured I can learn this way and later can reset code and try again on my own, once I have a better handle on things. 
+
+### Day 31, Oct 26, 2017
+
+Read Intro and Ch 1 of Eloquent Javascript. LOVE IT!!! Very good resource. 
+
+### Day 32, Oct 27, 2017
+
+Ch 2 Program Structure of Eloquent JavaScript and end of Ch exercises. Did first 2 on my own, had to Google help for last one. Loop triangle, FizzBuzz and Chessboard. FizzBuzz seems quite easy for me, especially the basic solution involving a For loop and if/else statements, not sure how this questions weeds out so many prospective web developers. Chessboard confused me a bit and I had to Google for solution. 
+
+### Day 33, Oct 28, 2017
+
+Ch 3 Functions Eloquent JavaScript -- Very proud of myself and quite amazed. Did all 3 end of Ch exercises on my own without any help or Googling. Minimum, Recursion and countChar.
